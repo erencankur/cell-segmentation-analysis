@@ -3,10 +3,10 @@ Cell Segmentation in Pathology Biopsy Images
 
 # Cell Segmentation in Biopsy Images
 
-Bu proje, patoloji biyopsi görüntülerinde hücre segmentasyonu yapmak için hazırlanmıştır.  
-Segmentasyon, hücreleri otomatik olarak tespit edip sınırlarını çizerek sayım yapmayı sağlar.  
+This project has been developed to perform cell segmentation in pathology biopsy images.  
+Segmentation enables the automatic detection of cells and the counting of cells by drawing their boundaries.
 
-## 🧪 Kullanılan Teknolojiler
+## 🧪 Technologies Used
 
 - Python
 - TensorFlow

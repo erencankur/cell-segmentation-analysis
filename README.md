@@ -226,39 +226,6 @@ Performance metrics:
 - **Mean Nucleus Area**: 100-500 pixels² (varies by tissue type)
 - **Processing Time**: 2-5 seconds per image
 
-## 🤝 Contributing
-
-Contributions are welcome! Potential improvements:
-
-- Support for additional image formats (TIFF, JPEG)
-- Deep learning-based segmentation (U-Net, Mask R-CNN)
-- 3D volume segmentation for z-stack images
-- Interactive parameter tuning GUI
-- Additional cell property measurements (circularity, eccentricity)
-
-## 📄 License
-
-This project is provided as-is for educational and research purposes.
-
-## 👤 Author
-
 Developed as part of a computer vision and medical image analysis project.
-
-## 🙏 Acknowledgments
-
-- Dr. Toros Taşkın for the lecture material and dataset
-- scikit-image documentation and examples
-- OpenCV community tutorials
-- Pathology biopsy image processing research papers
-
-## 📞 Support
-
-For questions or issues:
-1. Check that all dependencies are correctly installed
-2. Verify input images are RGB .png files
-3. Ensure sufficient disk space for output files
-4. Review the Jupyter notebook output for error messages
-
----
 
 **Note**: This tool is designed for research and educational purposes. For clinical applications, please consult with medical professionals and follow appropriate validation procedures.

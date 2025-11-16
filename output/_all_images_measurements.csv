@@ -1,0 +1,16 @@
+filename,nucleus_count,mean_nucleus_area,total_cell_area
+data01_lymphoma.png,398,244.75628140703517,97413.0
+data02_bone_marrow.png,39,7024.4358974358975,273953.0
+data03_malignant_melanoma.png,73,6269.602739726028,457681.0
+data04_cancer_cell.png,141,2945.6382978723404,415335.0
+data05_breast_tissue.png,590,1505.4610169491525,888222.0
+data06_liver_tissue.png,326,68.96319018404908,22482.0
+data07_gastric_mucosa.png,92,955.0326086956521,87863.0
+data08_exocrine_pancreas_tissue.png,220,297.8590909090909,65529.0
+data09_small_intestine_mucosa.png,48,1122.3333333333333,53872.0
+data10_brain_glioblastoma.png,175,1352.9142857142858,236760.0
+data11_kidney_glomerulus.png,166,568.6686746987951,94399.0
+data12_gastritis.png,303,1400.5610561056105,424370.0
+data13_gastric_tissue.png,607,765.4200988467875,464610.0
+data14_gastric_tissue.png,209,890.0047846889952,186011.0
+data15_breast_tissue.png,63,4101.539682539683,258397.0

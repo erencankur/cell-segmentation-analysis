@@ -1,0 +1,25 @@
+# ============================================
+# Cell Segmentation in Pathology Biopsy Images
+# Python Package Requirements
+# ============================================
+
+# Core Scientific Computing
+numpy>=1.21.0          # Numerical computations and array operations
+scipy>=1.7.0           # Scientific computing (distance transforms, morphology)
+pandas>=1.3.0          # Data manipulation and CSV export
+
+# Image Processing
+scikit-image>=0.18.0   # Segmentation algorithms, color deconvolution, morphology
+opencv-python>=4.5.0   # Image preprocessing (Gaussian blur, filtering)
+
+# Visualization
+matplotlib>=3.4.0      # Plotting and visualization of results
+
+# Jupyter Environment
+jupyter>=1.0.0         # Jupyter notebook support
+notebook>=6.4.0        # Jupyter notebook interface
+ipykernel>=6.0.0       # IPython kernel for Jupyter
+ipython>=7.20.0        # Enhanced interactive Python shell
+
+# Optional: Image I/O Enhancement
+pillow>=8.3.0          # Additional image format support
